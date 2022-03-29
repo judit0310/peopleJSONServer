@@ -1,7 +1,7 @@
 {
   "people": [
     {
-      "email": "johndoe@example.com,
+      "email": "johndoe@example.com",
       "firstName": "John",
       "lastName":"Doe",
       "age":25
